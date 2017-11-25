@@ -1,0 +1,36 @@
+header {
+    background-color: #000;
+    height: 70px;
+}
+
+#logo {
+    width: 75px;
+    height: 105px;
+}
+
+header ul {
+    font-size: 10px;
+}
+
+#divLogo {
+    display: inline-block;
+    margin-left: 3em;
+}
+
+#nav {
+    margin-top: 1.4em;
+}
+
+.nav-link {
+    display: inline-block;
+    padding: 0.1rem 0.5rem!important;
+}
+
+#tarjeta {
+    margin-left: 43em;
+    margin-top: -5.1em;
+}
+
+#idioma {
+    margin-top: -90px;
+}
