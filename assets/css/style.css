@@ -38,6 +38,11 @@ header ul {
 
 /* estilo login */
 
+main h2 {
+    margin-top: 2em;
+    margin-left: 2em;
+}
+
 #login {
     margin-top: 5em;
     margin-left: 30em;
